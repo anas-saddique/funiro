@@ -1,0 +1,74 @@
+.logo img{
+    margin-left: 6vw;
+    margin-top: 20px;
+}
+.logo{
+  margin-top: 3px;
+}
+.header{
+    margin-left: 535px;
+    margin-top: -40px;
+    font-weight: 500px;
+    font-size: 16px;
+}
+.shop{
+    margin-left: 676px;
+    margin-top: -18px;
+    font-weight: 500px;
+    font-size: 16px;
+}
+.about{
+     margin-left: 790px;
+    margin-top: -18px;
+    font-weight: 500px;
+    font-size: 16px;
+}
+.contact{
+     margin-left: 900px;
+    margin-top: -18px;
+    font-weight: 500px;
+    font-size: 16px;
+}
+.shop a{
+    text-decoration: none;
+    color: #000;
+    font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.about a{
+    text-decoration: none;
+    color: #000;
+    font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.contact a{
+    text-decoration: none;
+    color: #000;font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.img ul {
+    margin-left: 72vw;
+    display: flex;
+    gap: 57px;
+    margin-top: -2.60vw;
+    width: 28px;
+    height: 21px;
+}
+.header ul a{
+    text-decoration: none;
+    color: #000;
+     font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  text-align: center;
+  justify-content: center;
+  margin: 0 79px;
+  margin-left:-19px;
+  margin-top:-50px;
+}      
