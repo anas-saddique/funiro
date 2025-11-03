@@ -465,3 +465,153 @@
   font-weight: 00;
   font-style: normal;
 }
+.so{
+  width: 1524px;
+  height: 1px;
+  background-color: #050505;
+  margin-left: -85vw;
+  margin-top: 3vw;
+}
+.billing{
+  margin-left: -80vw;
+  margin-top: 3vw;
+  color: #000;
+  font-family: "Poppins", sans-serif;
+  font-weight: 00;
+  font-style: normal;
+  font-size: 24px;
+}
+.button4 button{
+  width: 200px;
+  height: 60px;
+  margin-left: -75vw;
+  border-radius: 10px;
+  margin-top: 6vw;
+  background-color: white;
+}
+.button5 button{
+  width: 200px;
+  height: 60px;
+  margin-left: -59vw;
+  border-radius: 10px;
+  margin-top: -4vw;
+  position: absolute;
+    background-color: white;
+}
+.first ul{
+  margin-left: -77vw;
+  margin-top: -6vw;
+}
+
+.last2 ul{
+  margin-left: -60vw;
+  margin-top: -2.30vw;
+}
+.button6 button{
+ width: 450px;
+  height: 60px;
+  margin-left: -75vw;
+  border-radius: 10px;
+  margin-top: 9vw;
+  position: absolute;
+    background-color: white;
+}
+.button7 button{
+ width: 450px;
+  height: 60px;
+  margin-left: -75vw;
+  border-radius: 10px;
+  margin-top: 17vw;
+  position: absolute;
+  background-color: white;
+  padding: 10px 10px;
+}
+.button7 span{
+  margin-left: -74vw;
+  margin-top: 18.40vw;
+  color: #616161;
+     font-family: "Poppins", sans-serif;
+  font-weight: 00;
+  font-style: normal;
+  font-size: 19px;
+}
+.button8 button{
+ width: 450px;
+  height: 60px;
+  margin-left: -75vw;
+  border-radius: 10px;
+  margin-top: 26vw;
+  position: absolute;
+    background-color: white;
+}
+.button9 button{
+ width: 450px;
+  height: 60px;
+  margin-left: -75vw;
+  border-radius: 10px;
+  margin-top: 34vw;
+  position: absolute;
+    background-color: white;
+}
+.button10 button{
+ width: 450px;
+  height: 60px;
+  margin-left: -75vw;
+  border-radius: 10px;
+  margin-top: 43vw;
+  position: absolute;
+    background-color: white;
+}
+.button11 button{
+ width: 450px;
+  height: 60px;
+  margin-left: -75vw;
+  border-radius: 10px;
+  margin-top: 51vw;
+  position: absolute;
+    background-color: white;
+}
+.im{
+  margin-left: -86vw;
+  margin-top: 3vw;
+}
+.check{
+  margin-left: -46vw;
+  margin-top: -15vw;
+position: absolute;
+font-size: 55px;
+color: #000;
+}
+.check span{
+  margin-top:6px ;
+  display: flex;
+  margin-left: 5.60vw;
+  font-size: 18px;
+  color:#616161;
+}
+.contanier ul {
+  display: grid;
+ row-gap:110px ;
+ margin-top: 8vw;
+ margin-left: -76vw;
+   font-family: "Poppins", sans-serif;
+  font-weight: 00;
+  font-style: normal;
+  color: #000;
+}
+.i{
+  margin-top: -32.50vw;
+margin-left: -47.60vw;
+position: absolute;
+}
+.im2{
+  margin-left: -30vw;
+  margin-top: -55vw;
+}
+.sepration{
+  width: 1605px;
+  background-color: #050505;
+  height: 2px;
+  margin-left: -90vw;
+  margin-top: 20vw;
+}
