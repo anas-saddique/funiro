@@ -1,5 +1,5 @@
 h1 {
-  margin: 0 !important;
+  margin: 0;
 }
 
 .logo img {
@@ -40,6 +40,7 @@ h1 {
   font-weight: 500;
   font-style: normal;
 }
+
 .about a {
   text-decoration: none;
   color: #000;
@@ -47,7 +48,6 @@ h1 {
   font-weight: 500;
   font-style: normal;
 }
-
 .contact a {
   text-decoration: none;
   color: #000;
@@ -67,8 +67,8 @@ h1 {
   text-decoration: none;
   color: #000;
   font-family: "Poppins", sans-serif;
-  font-weight: 500;
-  font-style: normal;
+   font-style: normal;
+ font-weight: 500;
   font-weight: 500;
   font-size: 18px;
   text-align: center;
@@ -76,11 +76,6 @@ h1 {
   margin: 0 79px;
   margin-left: -19px;
   margin-top: -50px;
-}
-.img1 img {
-  width: 1510px;
-  margin-left: -3px;
-  height: 650px;
 }
 .blank {
   width: 500px;
@@ -574,4 +569,163 @@ font-size: 20px;
   font-family: "Poppins", sans-serif;
   font-weight: 00;
   font-style: normal;
+}
+@media only screen and (max-width: 600px) {
+  .header ul{
+    display: flex;
+    background-color: blue;
+    margin-left: 6vw;
+    margin-top: 13vw;
+  }
+  .img ul{
+    margin-left:250vw;
+    margin-top: -17vw;
+  }
+  .blank{
+    margin-left: 150vw;
+    margin-top: -100vw;
+    width: 600px;
+  }
+  .text{
+    margin-left: 154vw;
+    margin-top: -90vw;
+}
+.text h2{
+  font-size: 35px;
+  display:ruby-text;
+  }
+.text p{
+  font-size: 30px;
+}
+.text div{
+  font-size:20px;
+  margin-top: -6vw;
+}
+.button{
+  margin-left: 103vw;
+  margin-top: -30vw;
+}
+.img1 img{
+width: 1500px;
+}
+.text12 h2{
+  margin-top: 49vw;
+  margin-left: 120vw;
+    display:ruby-text;
+    font-size: 40px;
+}
+.text12 p{
+     display:ruby-text;
+     font-size: 30px;
+     margin-left: 70vw;
+}
+.img3{
+  margin-left: 60vw;
+}
+.plan{
+  margin-left: 80vw;
+  font-size: 30px;
+  gap: 230px;
+}
+.pro h2{
+  margin-left: 135vw;
+    display:ruby-text;
+    margin-top: 20vw;
+    font-size:  40px;
+}
+.contanier{
+  margin-left: 65vw;
+}
+.text30{
+  margin-top: -166vw;
+  margin-left: 67vw;
+}
+.text31{
+    margin-top: -166vw;
+  margin-left: 137vw;
+}
+.text32{
+    margin-top: -166vw;
+  margin-left: 207vw;
+}
+.text33{
+  margin-top: -84vw;
+  margin-left: 67.50vw;
+}
+.text35{
+   margin-top: -84vw;
+  margin-left: 207vw;
+}
+.text36{
+   margin-top: -84vw;
+  margin-left: 137vw;
+}
+.text34{
+  margin-left: 240vw;
+  margin-top: -17vw;
+}
+.text37{
+  margin-left: 100vw;
+  margin-top: -16vw;
+}
+.text38{
+  margin-top: -100vw;
+  margin-left: 99vw;
+}
+.button1{
+  margin-left: 100vw;
+}
+.fonts{
+  margin-top: -90vw;
+}
+.bln{
+  margin-top: 30vw;
+  height: 500px;
+}
+.imges{
+  margin-left: 250vw;
+  margin-top: -70vw;
+}
+.img9{
+  margin-left: 160vw;
+  margin-top: -100vw;
+}
+.indi{
+  margin-left: 250vw;
+  margin-top: -4vw;
+}
+.haf{
+  margin-left: 339vw;
+  margin-top: -49vw;
+}
+.logo2{
+  margin-left: 325vw;
+  margin-top: -60vw;
+}
+.pic3{
+  margin-top: 60vw;
+  margin-left: 30vw;
+}
+.heading{
+  margin-top: 29vw;
+}
+.span{
+  margin-left: 8vw;
+}
+.link{
+  margin-left: 70vw;
+  margin-top: -10vw;
+}
+.help{
+  margin-left: 100vw;
+  margin-top: -5vw;
+}
+.new{
+  margin-left: 130vw;
+  margin-top: -5vw;
+}
+.home ul{
+margin-left: 30vw;
+margin-top: ;
+}
 }
